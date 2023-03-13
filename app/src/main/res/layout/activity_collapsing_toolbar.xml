@@ -21,6 +21,7 @@
                 android:layout_height="wrap_content"
                 app:layout_scrollFlags="scroll|exitUntilCollapsed|snap">
 
+
                 <FrameLayout
                     android:id="@+id/main_framelayout_title"
                     android:layout_width="match_parent"
